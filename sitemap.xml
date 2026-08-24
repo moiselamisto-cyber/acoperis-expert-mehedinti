@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://moiselamisto-cyber.github.io/acoperis-expert-mehedinti/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://moiselamisto-cyber.github.io/acoperis-expert-mehedinti/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://moiselamisto-cyber.github.io/acoperis-expert-mehedinti/servicii/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://moiselamisto-cyber.github.io/acoperis-expert-mehedinti/despre-noi.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://moiselamisto-cyber.github.io/acoperis-expert-mehedinti/lucrari.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://moiselamisto-cyber.github.io/acoperis-expert-mehedinti/contact.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://moiselamisto-cyber.github.io/acoperis-expert-mehedinti/servicii/acoperisuri-noi.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://moiselamisto-cyber.github.io/acoperis-expert-mehedinti/servicii/izolatii.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://moiselamisto-cyber.github.io/acoperis-expert-mehedinti/servicii/jgheaburi-burlane.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://moiselamisto-cyber.github.io/acoperis-expert-mehedinti/servicii/mansardari.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://moiselamisto-cyber.github.io/acoperis-expert-mehedinti/servicii/refaceri-acoperisuri.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://moiselamisto-cyber.github.io/acoperis-expert-mehedinti/servicii/reparatii-acoperisuri.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://moiselamisto-cyber.github.io/acoperis-expert-mehedinti/servicii/tigla-metalica.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://moiselamisto-cyber.github.io/acoperis-expert-mehedinti/servicii/tinichigerie.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>
