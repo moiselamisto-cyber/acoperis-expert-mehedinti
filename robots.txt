@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://EXEMPLU-DOMENIU.ro/sitemap.xml
+Sitemap: https://moiselamisto-cyber.github.io/acoperis-expert-mehedinti/sitemap.xml
